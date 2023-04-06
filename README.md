@@ -2,4 +2,4 @@ Hi there! My name is Gustavo, and I'm a software developer and computer science 
 
 You can reach me on [LinkedIn](https://linkedin.com/in/becelli), or by [email](mailto:gustavobecelli@gmail.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becelli&hide=shell,jupyter%20notebook)](https://github.com/folke)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becelli&hide=shell,jupyter%20notebook)](https://github.com/becelli)
