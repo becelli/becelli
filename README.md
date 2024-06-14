@@ -13,7 +13,10 @@ Hi there! I'm Gustavo, a passionate software engineer with a love for both natur
 
 ## Featured Projects
 
-### [Ooptional Library](https://github.com/yourusername/ooptional)
+### [Ofertas Brasil](https://ofertasbrasil.becelli.com.br)
+Save money and support your community! Discover, vote for, and find the best deals curated by the community.
+
+### [Ooptional Library](https://github.com/becelli/ooptional)
 A powerful way to handle optional values, eliminating the need for dealing with null or undefined in your code.
 
 ### [Banking Solutions](https://rubcube.com)
