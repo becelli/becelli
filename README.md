@@ -4,7 +4,6 @@
 
 Hi there! I'm Gustavo, a passionate software engineer with a love for both natural and programming languages. My focus is on crafting software that is readable, efficient, and secure.
 
-- 🔭 **Current Role:** Building innovative banking and financial solutions at **Rubcube**.
 - 🌟 **Primary Expertise:** JavaScript/TypeScript, relational databases and object-oriented programming.
 - 🛠️ **Creator of [ooptional](https://github.com/becelli/ooptional):** A TypeScript library that brings the best of functional programming to the ecosystem.
 - ✍️ **Blogging:** Occasionally, I share my thoughts and experiences on my [personal blog](https://blog.becelli.com.br).
