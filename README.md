@@ -1,44 +1,71 @@
-# Gustavo Becelli
+<div align="center">
+  <h1>👋 Hi, I'm Gustavo Becelli</h1>
+  <h3>Full Stack Software Engineer</h3>
+</div>
 
-### Software Engineer
+I'm a software engineer passionate about building high-performance, secure, and scalable applications. With expertise in full-stack development using TypeScript/JavaScript and extensive experience with distributed systems, I focus on delivering efficient solutions to complex problems.
 
-Hi there! I'm Gustavo, a passionate software engineer with a love for both natural and programming languages. My focus is on crafting software that is readable, efficient, and secure.
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-gustavobecelli%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:gustavobecelli@gmail.com)
+[![Website](https://img.shields.io/badge/Website-becelli.com.br-green?style=flat-square&logo=google-chrome)](https://becelli.com.br)
+[![GitHub](https://img.shields.io/badge/GitHub-becelli-black?style=flat-square&logo=github)](https://github.com/becelli)
 
-- 🌟 **Primary Expertise:** JavaScript/TypeScript, relational databases and object-oriented programming.
-- 🛠️ **Creator of [ooptional](https://github.com/becelli/ooptional):** A TypeScript library that brings the best of functional programming to the ecosystem.
-- ✍️ **Blogging:** Occasionally, I share my thoughts and experiences on my [personal blog](https://blog.becelli.com.br).
+</div>
 
----
+## 🛠️ Technical Skills
 
-## Featured Projects
+While I specialize in JavaScript/TypeScript and its ecosystem, I'm a quick learner who enjoys exploring and mastering new technologies.
 
-### [Ofertas Brasil](https://ofertasbrasil.becelli.com.br)
-Save money and support your community! Discover, vote for, and find the best deals curated by the community.
+### Primary Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Other Languages I Work With
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Technologies & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [Deal Finder](https://ofertasbrasil.becelli.com.br)
+A community-driven platform for discovering and sharing the best online deals.
+- 🔥 Built with Next.js and React Server Components for optimal performance
+- 💬 Rich engagement features including trending deals and discussion threads
+- ⚡ Custom-built rate limiting and content rendering solutions
+- 🛠️ Modern development stack with Turbopack and Drizzle ORM
+
+### [News Summarizer](https://github.com/becelli/news-summarizer)
+An intelligent news aggregation service powered by AI.
+- 🔄 Concurrent processing of multiple news sources using Go
+- 🤖 Integration with LLMs for automatic article summarization
+- 🌐 Multi-language support with customizable summary options
+- 💾 Efficient caching system for optimal performance
 
 ### [Ooptional Library](https://github.com/becelli/ooptional)
-A powerful way to handle optional values, eliminating the need for dealing with null or undefined in your code.
+A robust TypeScript implementation of the Option monad pattern.
+- ✨ Zero dependencies with 100% test coverage
+- 🔗 Intuitive API with method chaining and async support
+- 📚 Comprehensive documentation and examples
+- 🔄 Automated CI/CD pipeline
 
-### [Banking Solutions](https://rubcube.com)
-Developing secure, efficient, and user-friendly financial applications. (Note: Repository is private)
+## 🎓 Education
 
----
-
-## Skills
-
-- **Languages:** JavaScript, TypeScript, Python, Rust and Go.
-- **Frameworks:** Next.JS, React, Node.js, Express, Nest, Lambda.
-- **Tools:** Git, Docker, Linux, PostgreSQL
-- **Methodologies:** Agile, TDD, CI/CD
-- **Other Interests:** Database optimizations, scalability, caching and image processing.
+**[São Paulo State University](https://www2.unesp.br/)**  
+Bachelor of Engineering, Computer Science
 
 ---
 
-## Connect with Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/becelli)
-- 📧 [Email](mailto:gustavobecelli+contact@gmail.com)
-- 📝 [Blog](https://blog.becelli.com.br)
-
----
-
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or learn more about my work!
+<div align="center">
+  <i>Let's connect and build something amazing together! Feel free to reach out for collaborations or discussions.</i>
+</div>
